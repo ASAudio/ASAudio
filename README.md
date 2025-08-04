@@ -903,7 +903,7 @@ Table 8: The list of Spatial Audio Generation Papers and their URL
             <td><center>98</center></td>
             <td><center>Speech</center></td>
             <td><center>Text, Video, Geo</center></td>
-            <td><a href="https://arxiv.org/abs/2404.20630" target="_blank"><center>Link</center></a></td>
+            <td><a href="https://arxiv.org/abs/2504.20630" target="_blank"><center>Link</center></a></td>
         </tr>
     </tbody>
 </table>
