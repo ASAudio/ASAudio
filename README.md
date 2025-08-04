@@ -2,27 +2,22 @@
 
  # 🚀Quick Start 
 
-<!-- - [ASAudio Survey of Advanced Spatial Audio Research](#asaudio-survey-of-advanced-spatial-audio-research)
+- [ASAudio: A Survey of Advanced Spatial Audio Research](#asaudio-a-survey-of-advanced-spatial-audio-research)
 - [🚀Quick Start](#quick-start)
-- [🔥What's new](#whats-new)
   - [Introduction](#introduction)
   - [Overall](#overall)
   - [Representations of Spatial Audio](#representations-of-spatial-audio)
       - [1. Input Representations](#1-input-representations)
-      - [2. Output Representations](#2-output-representations)
-      - [4. Speech Dialogue Models](#4-publicly-available-speech-dialogue-models)
-  - [Representations of Spoken Dialogue Models](#representations-of-spoken-dialogue-models)
-  - [**Training Paradigm of Spoken Dialogue Model**](#training-paradigm-of-spoken-dialogue-model)
-  - [Streaming, Duplex, and Interaction](#streaming-duplex-and-interaction)
-  - [Training Resources and Evaluation](#training-resources-and-evaluation)
-      - [1. Training resources](#1-training-resources)
-      - [2. Evaluation](#2-evaluation)
-  - [Cite](#cite) -->
-
-<!-- # 🔥What's new
-
-- 2024.11.22: We release WavChat (A survey of spoken dialogue models about 60 pages) on arxiv! 🎉
-- 2024.08.31: We release [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) on arxiv. > -->
+      - [2. Spatial Cues and Physical Modeling](#2-spatial-cues-and-physical-modeling)
+          - [2.1 Room Impulse Response (RIR)](#21-room-impulse-response-rir)
+          - [2.2 Head Related Transfer Function (HRTF)](#22-head-related-transfer-function-hrtf)
+      - [3. Output Representations](#3-output-representations)
+  - [4. Spatial Audio Understanding Models](#4-spatial-audio-understanding-models)
+      - [4.1 SELD Papers](#41-seld-papers)
+      - [4.2 Spatial Audio Separation Papers](#42-spatial-audio-separation-papers)
+      - [4.3 Joint Learning Papers](#43-joint-learning-papers)
+  - [5. Spatial Audio Generation Models](#5-spatial-audio-generation-models)
+  - [6. Spatial Audio Datasets](#6-spatial-audio-datasets)
 
 ## Introduction
 
