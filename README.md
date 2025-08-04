@@ -765,7 +765,7 @@ Table 8: The list of Spatial Audio Generation Papers and their URL
 
 ## 6. Spatial Audio Datasets
 <div align='center'>
-<table style="width: 140%; table-layout: fixed;">
+<table style="width: 140%; table-layout: fixed; font-size: 0.4em;">
     <colgroup>
        <col span="1" style="width: 105%;">
        <col span="1" style="width: 5%;">
