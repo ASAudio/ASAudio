@@ -767,7 +767,7 @@ Table 8: The list of Spatial Audio Generation Papers and their URL
 <div align='center'>
 <table style="width: 140%; table-layout: fixed;">
     <colgroup>
-       <col span="1" style="width: 75%;">
+       <col span="1" style="width: 105%;">
        <col span="1" style="width: 5%;">
        <col span="1" style="width: 5%;">
        <col span="1" style="width: 5%;">
