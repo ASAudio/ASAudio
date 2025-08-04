@@ -493,12 +493,9 @@ Table 6: The list of Spatial Audio Separation Papers and their URL
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center;">
-                <a href="https://arxiv.org/abs/2011.01819">Link</a>
-            </td>
-            <td style="text-align: center;">
-                -
-            </td>
+            <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Learning representations from audio-visual spatial alignment</td>
+            <td><a href="https://arxiv.org/abs/2011.01819"><center>Link</center></a></td>
+            <td><center>-</center></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Telling left from right: Learning spatial correspondence of sight and sound</td>
