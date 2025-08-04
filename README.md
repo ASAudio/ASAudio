@@ -277,9 +277,9 @@ Table 4: Comparative analysis of spatial audio output representations
     </colgroup>
     <thead>
         <tr>
-            <th> Paper </th>
-            <th> URL </th>
-            <th> Code </th>
+            <th style="text-align: center;"> Paper </th>
+            <th style="text-align: center;"> URL </th>
+            <th style="text-align: center;"> Code </th>
         </tr>
     </thead>
     <tbody>
@@ -414,9 +414,9 @@ Table 5: The list of SELD Papers and their URL
     </colgroup>
     <thead>
         <tr>
-            <th> Paper </th>
-            <th> URL </th>
-            <th> Code </th>
+            <th style="text-align: center;"> Paper </th>
+            <th style="text-align: center;"> URL </th>
+            <th style="text-align: center;"> Code </th>
         </tr>
     </thead>
     <tbody>
@@ -486,9 +486,9 @@ Table 6: The list of Spatial Audio Separation Papers and their URL
     </colgroup>
     <thead>
         <tr>
-            <th> Paper </th>
-            <th> URL </th>
-            <th> Code </th>
+            <th style="text-align: center;"> Paper </th>
+            <th style="text-align: center;"> URL </th>
+            <th style="text-align: center;"> Code </th>
         </tr>
     </thead>
     <tbody>
@@ -573,9 +573,9 @@ Table 7: The list of Spatial Audio Separation Papers and their URL
     </colgroup>
     <thead>
         <tr>
-            <th> Paper </th>
-            <th> URL </th>
-            <th> Code </th>
+            <th style="text-align: center;"> Paper </th>
+            <th style="text-align: center;"> URL </th>
+            <th style="text-align: center;"> Code </th>
         </tr>
     </thead>
     <tbody>
