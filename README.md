@@ -798,7 +798,7 @@ Table 8: The list of Spatial Audio Generation Papers and their URL
             <td><a href="https://inria.hal.science/hal-01343060/file/bertin_IS16.pdf" target="_blank"><center>Link</center></a></td>
         </tr>
         <tr>
-            <td><center><a href=" https://pedro-morgado.github.io/spatialaudiogen" target="_blank">YT-ALL & REC-STREET</a></center></td>
+            <td><center><a href="https://pedro-morgado.github.io/spatialaudiogen" target="_blank">YT-ALL & REC-STREET</a></center></td>
             <td><center>FOA</center></td>
             <td><center>Crawled</center></td>
             <td><center>116.5</center></td>
