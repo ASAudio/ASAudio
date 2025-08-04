@@ -764,17 +764,8 @@ Table 8: The list of Spatial Audio Generation Papers and their URL
 </div>
 
 ## 6. Spatial Audio Datasets
-<style>
-    .references-table tbody tr {
-        height: 4em; /* 设置一个固定的行高，您可以根据需要调整此值 */
-    }
-    .references-table td {
-        vertical-align: middle; /* 垂直居中对齐 */
-        padding-top: 8px; /* 增加一点顶部内边距，让文字不紧贴上边框 */
-    }
-</style>
 <div align='center'>
-<table class="references-table" style="width: 120%; table-layout: fixed; font-size: 80%;">
+<table style="width: 120%; table-layout: fixed; font-size: 80%;">
     <colgroup>
        <col span="1" style="width: 75%;">
        <col span="1" style="width: 5%;">
