@@ -476,6 +476,7 @@ Table 6: The list of Spatial Audio Separation Papers and their URL
 </div>
 
 #### 4.3 Joint Learning Papers
+
 <div align='center'>
 <table style="width: 100%; table-layout: fixed;">
     <colgroup>
@@ -493,68 +494,68 @@ Table 6: The list of Spatial Audio Separation Papers and their URL
     <tbody>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Learning representations from audio-visual spatial alignment</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2011.01819">Link</a></td>
-            <td style="text-align: center;">-</td>
+            <td><a href="https://arxiv.org/abs/2011.01819"><center>Link</center></a></td>
+            <td><center>111</center></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Telling left from right: Learning spatial correspondence of sight and sound</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2006.06175">Link</a></td>
-            <td style="text-align: center;"><a href="https://github.com/karreny/telling-left-from-right/tree/master">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2006.06175"><center>Link</center></a></td>
+            <td><a href="https://github.com/karreny/telling-left-from-right/tree/master"><center>Link</center></a></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Av-nerf: Learning neural fields for real-world audio-visual scene synthesis</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2302.02088">Link</a></td>
-            <td style="text-align: center;"><a href="https://github.com/liangsusan-git/AV-NeRF">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2302.02088"><center>Link</center></a></td>
+            <td><a href="https://github.com/liangsusan-git/AV-NeRF"><center>Link</center></a></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Learning neural acoustic fields</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2204.00628">Link</a></td>
-            <td style="text-align: center;"><a href="https://github.com/aluo-x/Learning_Neural_Acoustic_Fields">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2204.00628"><center>Link</center></a></td>
+            <td><a href="https://github.com/aluo-x/Learning_Neural_Acoustic_Fields"><center>Link</center></a></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Overview of geometrical room acoustic modeling techniques</td>
-            <td style="text-align: center;"><a href="https://pubs.aip.org/asa/jasa/article/138/2/708/917382/Overview-of-geometrical-room-acoustic-modeling">Link</a></td>
+            <td><a href="https://pubs.aip.org/asa/jasa/article/138/2/708/917382/Overview-of-geometrical-room-acoustic-modeling"><center>Link</center></a></td>
             <td style="text-align: center;">-</td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Av-rir: Audio-visual room impulse response estimation</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2312.00834">Link</a></td>
-           <td style="text-align: center;"><a href="https://github.com/anton-jeran/AV-RIR">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2312.00834"><center>Link</center></a></td>
+           <td><a href="https://github.com/anton-jeran/AV-RIR"><center>Link</center></a></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Impulse response data augmentation and deep neural networks for blind room acoustic parameter estimation</td>
-            <td style="text-align: center;"><a href="https://ieeexplore.ieee.org/document/9052970/">Link</a></td>
+            <td><a href="https://ieeexplore.ieee.org/document/9052970/"><center>Link</center></a></td>
             <td style="text-align: center;">-</td>
         </tr>
        <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Multi-Channel Mosra: Mean Opinion Score and Room Acoustics Estimation Using Simulated Data and A Teacher Model</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2309.11976">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2309.11976"><center>Link</center></a></td>
             <td style="text-align: center;">-</td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Few-shot audio-visual learning of environment acoustics</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2206.04006">Link</a></td>
-            <td style="text-align: center;"><a href="https://github.com/SAGNIKMJR/few-shot-rir">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2206.04006"><center>Link</center></a></td>
+            <td><a href="https://github.com/SAGNIKMJR/few-shot-rir"><center>Link</center></a></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Blind room parameter estimation using multiple multichannel speech recordings</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2107.13832">Link</a></td>
-            <td style="text-align: center;"><a href="https://github.com/prerak23/RoomParamEstim">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2107.13832"><center>Link</center></a></td>
+            <td><a href="https://github.com/prerak23/RoomParamEstim"><center>Link</center></a></td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Visual-based spatial audio generation system for multi-speaker environments</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2502.07538">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2502.07538"><center>Link</center></a></td>
             <td style="text-align: center;">-</td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">Learning Spatially-Aware Language and Audio Embeddings</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2409.11369">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2409.11369"><center>Link</center></a></td>
             <td style="text-align: center;">-</td>
         </tr>
         <tr>
             <td style="overflow-wrap: break-word; hyphens: auto;" lang="en">BAT: Learning to Reason about Spatial Sounds with Large Language Models</td>
-            <td style="text-align: center;"><a href="https://arxiv.org/abs/2402.01591">Link</a></td>
-            <td style="text-align: center;"><a href="https://github.com/zszheng147/Spatial-AST">Link</a></td>
+            <td><a href="https://arxiv.org/abs/2402.01591"><center>Link</center></a></td>
+            <td><a href="https://github.com/zszheng147/Spatial-AST"><center>Link</center></a></td>
         </tr>
     </tbody>
 </table>
