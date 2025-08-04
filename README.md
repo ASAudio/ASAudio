@@ -17,7 +17,7 @@
       - [4.2 Spatial Audio Separation Papers](#42-spatial-audio-separation-papers)
       - [4.3 Joint Learning Papers](#43-joint-learning-papers)
   - [5. Spatial Audio Generation Models](#5-spatial-audio-generation-models)
-  - [6. Spatial Audio Datasets](#6-spatial-audio-datasets)
+  - [6. Spatial Audio Datasets| Paper                                                                                        | Format   | Collect   | Hours | Type   | Labels             | URL                                                                                                                                                                                            | Dataset                                                                                             |](#6-spatial-audio-datasets-paper-----------------------------------------------------------------------------------------format----collect----hours--type----labels--------------url---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------dataset---------------------------------------------------------------------------------------------)
 
 ## Introduction
 
@@ -763,174 +763,19 @@ Table 7: The list of Spatial Audio Separation Papers and their URL
 Table 8: The list of Spatial Audio Generation Papers and their URL
 </div>
 
-## 6. Spatial Audio Datasets
-<div align='center'>
-<table style="width: 140%; table-layout: fixed; font-size: 0.4em;">
-    <colgroup>
-       <col span="1" style="width: 105%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 5%;">
-       <col span="1" style="width: 5%;">
-    </colgroup>
-    <thead>
-        <tr>
-            <th>Paper</th>
-            <th>Format</th>
-            <th>Collect</th>
-            <th>Hours</th>
-            <th>Type</th>
-            <th>Labels</th>
-            <th>URL</th>
-            <th>Dataset</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="word-break: break-word;">The Sweet-Home speech and multimodal corpus for home automation interaction</td>
-            <td><center>Multi</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>47.3</center></td>
-            <td><center>Speech</center></td>
-            <td><center>Text</center></td>
-            <td><a href="https://hal.science/hal-00953006/file/2014_LREC_Vacher_final.pdf" target="_blank"><center>Link</center></a></td>
-            <td><a href="http://sweet-home-data.imag.fr" target="_blank"><center>Sweet-Home</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">A French corpus for distant-microphone speech processing in real homes</td>
-            <td><center>Multi</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>2.5</center></td>
-            <td><center>Speech</center></td>
-            <td><center>Text, Geometric</center></td>
-            <td><a href="https://inria.hal.science/hal-01343060/file/bertin_IS16.pdf" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://zenodo.org/records/1314196" target="_blank"><center>Voice-Home</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">Self-supervised generation of spatial audio for 360 video</td>
-            <td><center>FOA</center></td>
-            <td><center>Crawled</center></td>
-            <td><center>116.5</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Video, Text</center></td>
-            <td><a href="https://arxiv.org/abs/1809.02587" target="_blank"><center>Link</center></a></td>
-            <td><center><a href=" https://pedro-morgado.github.io/spatialaudiogen" target="_blank">YT-ALL & REC-STREET</a></center></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">2.5D Visual Sound</td>
-            <td><center>Binaural</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>5.2</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Video</center></td>
-            <td><a href="https://arxiv.org/abs/1812.04204" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://github.com/facebookresearch/FAIR-Play" target="_blank"><center>FAIR-Play</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">SECL-UMons database for sound event classification and localization</td>
-            <td><center>Multi</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>5</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Text, Geometric</center></td>
-            <td><a href="https://ieeexplore.ieee.org/document/9053298" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://zenodo.org/records/3632377#.XjQQUuF7nC" target="_blank"><center>SECL-UMons</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">Learning representations from audio-visual spatial alignment</td>
-            <td><center>FOA</center></td>
-            <td><center>Crawled</center></td>
-            <td><center>246</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Video</center></td>
-            <td><a href="https://arxiv.org/abs/2011.01819" target="_blank"><center>Link</center></a></td>
-            <td><center><a href="https://github.com/pedro-morgado/AVSpatialAlignment" target="_blank">YT-360</a></center></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">Easycom: An augmented reality dataset to support algorithms for easy communication in noisy environments</td>
-            <td><center>Binaural</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>5</center></td>
-            <td><center>Speech</center></td>
-            <td><center>Geometric, Text</center></td>
-            <td><a href="https://arxiv.org/abs/2107.04174" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://github.com/facebookresearch/EasyComDataset" target="_blank"><center>EasyCom</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">Neural synthesis of binaural speech from mono audio</td>
-            <td><center>Binaural</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>2</center></td>
-            <td><center>Speech</center></td>
-            <td><center>Geometric</center></td>
-            <td><a href="https://openreview.net/forum?id=uAX8q61EVRu" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://github.com/facebookresearch/BinauralSpeechSynthesis/releases/tag/v1.0" target="_blank"><center>Binaural_Dataset</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">Visually-guided audio spatialization in video with geometry-aware multi-task learning</td>
-            <td><center>Binaural</center></td>
-            <td><center>Sim/Crawl</center></td>
-            <td><center>143</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Video, Geometric</center></td>
-            <td><a href="https://vision.cs.utexas.edu/projects/visually-guided-multitask-spatial/Visually-Guided%20Audio%20Spatialization%20in%20Video%20with%20Geometry-Aware%20Multi-Task%20Learning.pdf" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://vision.cs.utexas.edu/projects/visually-guided-multitask-spatial/#dataset" target="_blank"><center>SimBinaural </center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">Spatial LibriSpeech: An augmented dataset for spatial audio learning</td>
-            <td><center>FOA</center></td>
-            <td><center>Simulated</center></td>
-            <td><center>650</center></td>
-            <td><center>Speech</center></td>
-            <td><center>Text, Geometric</center></td>
-            <td><a href="https://arxiv.org/abs/2308.09514" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://github.com/apple/ml-spatial-librispeech" target="_blank"><center>Spatial LibriSpeech</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">STARSS23: An audio-visual dataset of spatial recordings of real scenes with spatiotemporal annotations</td>
-            <td><center>FOA</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>7.5</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Video, Geometric</center></td>
-            <td><a href="https://arxiv.org/abs/2306.09126" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://zenodo.org/record/7880637" target="_blank"><center>Link</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">ViSAGe: Video-to-Spatial Audio Generation</td>
-            <td><center>FOA</center></td>
-            <td><center>Crawled</center></td>
-            <td><center>142</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Video</center></td>
-            <td><a href="https://arxiv.org/abs/2506.12199" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://github.com/jaeyeonkim99/visage" target="_blank"><center>YT-Ambigen</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation </td>
-            <td><center>Binaural</center></td>
-            <td><center>Simulated</center></td>
-            <td><center>2.8k</center></td>
-            <td><center>Audio</center></td>
-            <td><center>Text/Image, Geo</center></td>
-            <td><a href="https://arxiv.org/abs/2410.10676" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://github.com/PeiwenSun2000/Both-Ears-Wide-Open?tab=readme-ov-file" target="_blank"><center>BEWO-1M</center></a></td>
-        </tr>
-        <tr>
-            <td style="word-break: break-word;">ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting</td>
-            <td><center>Binaural</center></td>
-            <td><center>Recorded</center></td>
-            <td><center>98</center></td>
-            <td><center>Speech</center></td>
-            <td><center>Text, Video, Geo</center></td>
-            <td><a href="https://arxiv.org/abs/2504.20630" target="_blank"><center>Link</center></a></td>
-            <td><a href="https://huggingface.co/datasets/AaronZ345/MRSDrama" target="_blank"><center>MRSDrama</center></a></td>
-        </tr>
-    </tbody>
-</table>
-Table 9: The list of Spatial Audio Datasets and their URL
-</div>
-
+## 6. Spatial Audio Datasets| Paper                                                                                        | Format   | Collect   | Hours | Type   | Labels             | URL                                                                                                                                                                                            | Dataset                                                                                             |
+| :------------------------------------------------------------------------------------------- | :------: | :-------: | :---: | :----: | :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| The Sweet-Home speech and multimodal corpus for home automation interaction                  |  Multi   | Recorded  | 47.3  | Speech | Text               | [Link](https://hal.science/hal-00953006/file/2014_LREC_Vacher_final.pdf)                                                                                                                     | [Sweet-Home](http://sweet-home-data.imag.fr)                                                               |
+| A French corpus for distant-microphone speech processing in real homes                       |  Multi   | Recorded  |  2.5  | Speech | Text, Geometric    | [Link](https://inria.hal.science/hal-01343060/file/bertin_IS16.pdf)                                                                                                                          | [Voice-Home](https://zenodo.org/records/1314196)                                                            |
+| Self-supervised generation of spatial audio for 360 video                                    |   FOA    |  Crawled  | 116.5 | Audio  | Video, Text        | [Link](https://arxiv.org/abs/1809.02587)                                                                                                                                                    | [YT-ALL & REC-STREET](https://pedro-morgado.github.io/spatialaudiogen)                                     |
+| 2.5D Visual Sound                                                                            | Binaural | Recorded  |  5.2  | Audio  | Video              | [Link](https://arxiv.org/abs/1812.04204)                                                                                                                                                    | [FAIR-Play](https://github.com/facebookresearch/FAIR-Play)                                                |
+| SECL-UMons database for sound event classification and localization                            |  Multi   | Recorded  |   5   | Audio  | Text, Geometric    | [Link](https://ieeexplore.ieee.org/document/9053298)                                                                                                                                        | [SECL-UMons](https://zenodo.org/records/3632377#.XjQQUuF7nC)                                                 |
+| Learning representations from audio-visual spatial alignment                                 |   FOA    |  Crawled  |  246  | Audio  | Video              | [Link](https://arxiv.org/abs/2011.01819)                                                                                                                                                    | [YT-360](https://github.com/pedro-morgado/AVSpatialAlignment)                                               |
+| Easycom: An augmented reality dataset to support algorithms for easy communication in noisy environments | Binaural | Recorded  |   5   | Speech | Geometric, Text    | [Link](https://arxiv.org/abs/2107.04174)                                                                                                                                                    | [EasyCom](https://github.com/facebookresearch/EasyComDataset)                                               |
+| Neural synthesis of binaural speech from mono audio                                          | Binaural | Recorded  |   2   | Speech | Geometric          | [Link](https://openreview.net/forum?id=uAX8q61EVRu)                                                                                                                                         | [Binaural_Dataset](https://github.com/facebookresearch/BinauralSpeechSynthesis/releases/tag/v1.0)           |
+| Visually-guided audio spatialization in video with geometry-aware multi-task learning        | Binaural | Sim/Crawl |  143  | Audio  | Video, Geometric   | [Link](https://vision.cs.utexas.edu/projects/visually-guided-multitask-spatial/Visually-Guided%20Audio%20Spatialization%20in%20Video%20with%20Geometry-Aware%20Multi-Task%20Learning.pdf) | [SimBinaural](https://vision.cs.utexas.edu/projects/visually-guided-multitask-spatial/#dataset)             |
+| Spatial LibriSpeech: An augmented dataset for spatial audio learning                         |   FOA    | Simulated |  650  | Speech | Text, Geometric    | [Link](https://arxiv.org/abs/2308.09514)                                                                                                                                                    | [Spatial LibriSpeech](https://github.com/apple/ml-spatial-librispeech)                                      |
+| STARSS23: An audio-visual dataset of spatial recordings of real scenes with spatiotemporal annotations |   FOA    | Recorded  |  7.5  | Audio  | Video, Geometric   | [Link](https://arxiv.org/abs/2306.09126)                                                                                                                                                    | [Link](https://zenodo.org/record/7880637)                                                                   |
+| ViSAGe: Video-to-Spatial Audio Generation                                                    |   FOA    |  Crawled  |  142  | Audio  | Video              | [Link](https://arxiv.org/abs/2506.12199)                                                                                                                                                    | [YT-Ambigen](https://github.com/jaeyeonkim99/visage)                                                        |
+| Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation                        | Binaural | Simulated | 2.8k  | Audio  | Text/Image, Geo    | [Link](https://arxiv.org/abs/2410.10676)                                                                                                                                                    | [BEWO-1M](https://github.com/PeiwenSun2000/Both-Ears-Wide-Open?tab=readme-ov-file)                           |
+| ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting                     | Binaural | Recorded  |   98  | Speech | Text, Video, Geo   | [Link](https://arxiv.org/abs/2504.20630)                                                                                                                                                    | [MRSDrama](https://huggingface.co/datasets/MRSDrama/MRSDrama)                                               |
