@@ -496,7 +496,6 @@ Table 6: The list of Spatial Audio Separation Papers and their URL
             <td style="text-align: center;">
                 <a href="https://arxiv.org/abs/2011.01819">Link</a>
             </td>
-
             <td style="text-align: center;">
                 -
             </td>
